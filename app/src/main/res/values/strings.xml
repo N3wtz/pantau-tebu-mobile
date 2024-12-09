@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PantauTebu</string>
+
+    <string name="title_classified">Classified as:</string>
+    <string name="btn_history">Show History</string>
+    <string name="btn_camera">Take Picture</string>
+    <string name="btn_galeri">Launch Gallery</string>
+    <string name="title_confidence">Confidence</string>
+    <string name="title_result">Result</string>
+</resources>
